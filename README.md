@@ -85,8 +85,13 @@ Enter your choice: _
 Table Format for Displaying Contacts📱
 
 +----+------------------+------------------------+-------------+
+
 | ID | Name             | Email                 | Mobile      |
+
 +----+------------------+------------------------+-------------+
+
 | 1  | John Doe         | john.doe@example.com  | 9876543210  |
+
 | 2  | Jane Smith       | jane.smith@gmail.com  | 9123456789  |
+
 +----+------------------+------------------------+-------------+
