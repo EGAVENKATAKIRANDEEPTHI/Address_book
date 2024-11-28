@@ -44,12 +44,19 @@ Upon starting the program, you'll see a menu:
 
 address-book/
 ├── main.c          # Main program entry point
+
 ├── main.h          # Header file for main functions
+
 ├── file.c          # Contains core functions for file handling
+
 ├── file.h          # Header file for file operations
+
 ├── contact.c       # Contains contact management logic (add, edit, delete)
+
 ├── contact.h       # Header file for contact-related functions
+
 ├── Makefile        # Build system for compiling the project
+
 └── README.md       # Project documentation
 
 
